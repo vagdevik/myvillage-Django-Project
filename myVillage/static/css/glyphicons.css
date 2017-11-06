@@ -1,0 +1,19 @@
+body {
+    /*background-color: #FF5733;*/
+    /*background-color: white;*/
+    background: url("images/background.png");
+}
+/*#f4ce42;*/
+.backColor>li>a:hover{
+    color: white !important;
+    background-color: #056303 !important;
+}
+
+.omg{
+    background-color: #white !important;
+    color: black;
+}
+
+.colour{
+    background-color:#b6c9d8 ;
+}
